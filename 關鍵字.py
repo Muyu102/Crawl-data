@@ -3,8 +3,8 @@ import pandas as pd
 from datetime import datetime
 
 # Google API 配置
-API_KEY = "AIzaSyA3CD5Z99ahHzdzx5hmef4VWmNVWmkFdCA"
-CX = "a45b7ddd85f884245"
+API_KEY = ""
+CX = ""
 
 # 搜尋的關鍵字
 keywords = ["Roots品牌", "加拿大休閒品牌"]
